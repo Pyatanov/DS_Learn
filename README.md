@@ -9,5 +9,3 @@
 Для доступа к проекту в GIT:
 git remote add origin https://github.com/Pyatanov/DS_Learn.git
 git branch -M main
-
-sss
